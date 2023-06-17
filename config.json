@@ -1,0 +1,57 @@
+{
+  "language": "en",
+  "DeveloperMode": true,
+  "autoCreateDB": true,
+  "allowInbox": false,
+  "autoClean": true,
+  "adminOnly": false,
+  "encryptSt": true,
+  "UPTIME": 0,
+  "DASHBOARD": false,
+  "commandDisabled": [],
+  "eventDisabled": [],
+  "EMAIL": "",
+  "PASSWORD": "",
+  "OTPKEY": "",
+  "BOTNAME": "Not A Bot",
+  "ENDPOINT": "https://best-boat.kureiigt.repl.co",
+  "PREFIX": "?",
+  "ADMINBOT": [
+    "100033317412217"
+  ],
+  "APPSTATEPATH": "appstate.json",
+  "FCAOption": {
+    "forceLogin": true,
+    "listenEvents": true,
+    "autoMarkDelivery": false,
+    "autoMarkRead": false,
+    "pauseLog": true,
+    "logLevel": "silent",
+    "selfListen": true,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0"
+  },
+  "version": "1.1.4",
+  "daily": {
+    "cooldownTime": 43200000,
+    "rewardCoin": 500
+  },
+  "work": {
+    "cooldownTime": 1200000
+  },
+  "help": {
+    "autoUnsend": true,
+    "delayUnsend": 20
+  },
+  "adminUpdate": {
+    "autoUnsend": true,
+    "sendNoti": true,
+    "timeToUnsend": 10
+  },
+  "adminNoti": {
+    "autoUnsend": true,
+    "sendNoti": true,
+    "timeToUnsend": 10
+  },
+  "DEL_FUNCTION": false,
+  "ADD_FUNCTION": true
+}
